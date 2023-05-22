@@ -1,0 +1,6 @@
+DECLARAÇÃO 
+    Lista [10] : Inteiro
+	Numero : Inteiro;
+	
+Para lista [10] até 1 passo 0
+fim para 
